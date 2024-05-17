@@ -10,7 +10,7 @@ This project implements an MQTT client on an ESP32 microcontroller using the Ard
 
 ### Software Setup
 1. Install the Arduino IDE.
-2. Install the ESP32 board support package in the Arduino IDE. Instructions can be found [here](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/).
+2. Install the ESP32 board support package in the Arduino IDE.
 3. Import the necessary libraries: `WiFi.h` and `PubSubClient.h`. These can be installed through the Library Manager in the Arduino IDE.
 
 ### Configuration
