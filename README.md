@@ -14,7 +14,7 @@ This project implements an MQTT client on an ESP32 microcontroller using the Ard
 3. Import the necessary libraries: `WiFi.h` and `PubSubClient.h`. These can be installed through the Library Manager in the Arduino IDE.
 
 ### Configuration
-- Open the sketch file `mqtt_esp32_client.ino`.
+- Open the sketch file `mqtt.ino`.
 - Modify the following constants according to your network configuration:
   - `WIFI_SSID`: SSID of your WiFi network.
   - `WIFI_PASSWORD`: Password of your WiFi network.
